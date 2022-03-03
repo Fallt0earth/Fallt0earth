@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fallt0earth
-- 👀 I’m interested in HPC Research with an interest in better leveraging hardwares parallel capabilities without requiring HPC domain knowledge.
-- 🌱 I’m currently learning fortan and how to write academic papers
+- 👀 I’m interested in HPC Research with an interest in better leveraging hardwares parallel capabilities without requiring HPC domain knowledge, specifically in machine learning
+- 🌱 I’m currently learning Deep Learning concepts
 - 💞️ I’m looking to collaborate on HPC research
 - 📫 How to reach me fallt0earth#6079 discord and dstokes5@uncc.edu
 
